@@ -86,8 +86,9 @@ aside {
     padding: 20px;
     position: absolute;
     float: right;
-    top: 90px;
+    top: 30px;
     right: 20px;
+    left: 100px;
 }
 
 aside h3 {
@@ -96,7 +97,7 @@ aside h3 {
 }
 
 #icons {
-    margin: 0px auto;
+    margin: auto;
     width: 100%;
 }
 
