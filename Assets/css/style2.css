@@ -1,0 +1,18 @@
+/* So I guess new rules to control the positioning need to go here */
+
+.nav {
+	float: right;
+}
+
+
+
+
+
+/*
+Need all col-sizes: col-xs-# , col-sm-# , col-md-# , col-lg-# , col-xl-#
+
+Edit css link on contact & portfolio
+
+Change nav bar active link on coresponding contact & portfolio
+
+*/
