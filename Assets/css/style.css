@@ -163,7 +163,11 @@ footer {
 /* Rules for Contact Page */
 
 /* Needs form styling!!!!!!!!!!!! */
-
+form {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 12px;
+    color: DarkGrey;
+}
 
 
 /* Rules for Portlfolio Page */
